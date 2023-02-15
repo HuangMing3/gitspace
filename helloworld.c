@@ -1,0 +1,4 @@
+mian()
+{
+	printf("hello!");
+}
