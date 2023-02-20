@@ -1,4 +1,4 @@
 void main()
 {
-	print("HelloWorld!");
+	printf("HelloWorld!");//A secomd commit
 }
